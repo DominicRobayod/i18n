@@ -1,0 +1,20 @@
+{
+  "Position": "Position",
+  
+  "Company": "Company",
+
+  "Salary": "Salary",
+
+  "City": "City",
+
+  "PublicationDate": "Publication date",
+
+  "Views": "No. of views",
+
+  "Manager": "Manager",
+
+  "Software Engineer": "Software Engineer",
+
+  "Nurse": "Nurse"
+
+}
